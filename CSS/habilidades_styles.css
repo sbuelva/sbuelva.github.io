@@ -1,0 +1,30 @@
+
+.habilidades {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.habilidades_titulo {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: #323341;
+    margin: 40px auto;
+}
+
+.habilidad {
+    font-size: 22px;
+    font-weight: 500;
+    border-radius: 32px;
+    padding: 0.5em 0.7em;
+    margin: 10px;
+    -webkit-box-shadow: 3px -3px 9px 0px rgb (23, 23, 88); 
+    box-shadow: 3px -3px 9px 0px #E7CC55;
+}
+
+.habilidades_lista {
+    list-style:none;
+    list-style-image: element();
+    padding: 0;
+    flex-direction: column;
+    justify-content: center;
+}

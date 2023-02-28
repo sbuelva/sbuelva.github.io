@@ -1,0 +1,30 @@
+.contacto_titulo {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: #323341;
+    margin: 40px auto;
+}
+
+.contacto_contacto {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    text-align: center;
+    color: #323341;
+    margin: auto 20px;
+    padding: 5px;
+}
+
+.redes_lista{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.contacto_lista {
+    list-style: none;
+}
+
+

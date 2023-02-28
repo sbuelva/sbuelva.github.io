@@ -1,0 +1,27 @@
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+
+a {
+    text-decoration: none;
+}
+
+
+/*Margenes*/
+
+.horizontal-padding {
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color:#e6e791  ;
+}
+
+.vertical-padding {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #e6e791 E7E97B ;
+}
+

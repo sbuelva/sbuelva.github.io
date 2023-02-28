@@ -1,0 +1,68 @@
+.experiencia_experiencia {
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    color: #323341;
+    margin: auto 20px;
+}
+
+.mas_informacion {
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    color: #323341;
+    margin: auto 20px;
+    display: none;
+}
+
+.experiencia_titulo {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: #323341;
+    margin: 40px auto;
+}
+
+.experiencia {
+    font-family: 'Montserrat', sans-serif; 
+}
+
+.experiencia_titulo_2 {
+    font-size: 25 px;
+    font-weight: 500;
+    text-align: center;
+    color: #323341;
+    margin: auto auto;
+    max-width:400px;
+}
+
+.experiencia_titulo_3 {
+    font-size: 22 px;
+    font-weight: 600;
+    text-align: center;
+    color: #323341;
+    margin: auto auto;
+    max-width:400px;
+    padding: 20px 20px;
+}
+
+
+.experiencia_fecha {
+    font-size: 20 px;
+    font-weight: 800;
+    text-align: center;
+    color: #323341;
+    margin: auto auto;
+    padding: 10px 10px;
+}
+
+.mas_informacion_info {
+    list-style-type:square;
+    text-align:start;
+    line-height: 1.5;
+}
+
+#btn_-info_3, #btn_-info_2, #btn_-info_1{
+    margin: auto auto;
+}
+
